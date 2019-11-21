@@ -6,6 +6,7 @@
 .tmp
 *.tmp
 *.tmp.*
+package-lock.json
 *.sublime-project
 *.sublime-workspace
 .DS_Store
